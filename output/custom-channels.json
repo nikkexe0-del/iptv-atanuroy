@@ -11658,7 +11658,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_mse_v0_hevc.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_mse_v0_hevc.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -12320,6 +12320,213 @@
       "category": 0,
       "language": 0,
       "is_hd": false
+    },
+    {
+      "id": "beINSPORTSXTRAenEspanol.us",
+      "name": "beIN Sports XTRA en Espanol (1080p)",
+      "url": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8",
+      "logo_url": "https://i.imgur.com/V562tpO.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "DraftKingsNetwork.us",
+      "name": "DraftKings Network (1080p)",
+      "url": "https://d2obyvq5go60aw.cloudfront.net/DraftKings_Network.m3u8",
+      "logo_url": "https://i.imgur.com/SFYhgrt.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "FuboSportsNetwork.us",
+      "name": "fubo Sports Network (1080p)",
+      "url": "https://dnf08l6u6uxnz.cloudfront.net/master.m3u8",
+      "logo_url": "https://i.imgur.com/qFNRJLb.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "MLB.us",
+      "name": "MLB Channel (1080p) [Geo-blocked]",
+      "url": "https://pb-2y9ox4r1fy550.akamaized.net/playlist.m3u8",
+      "logo_url": "https://i.imgur.com/ym3su2J.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "NFLChannel.us",
+      "name": "NFL Channel (1080p) [Geo-blocked]",
+      "url": "https://pb-we3ltka9xobj6.akamaized.net/master.m3u8",
+      "logo_url": "https://i.imgur.com/mPGtwAP.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "NHRATV.us",
+      "name": "NHRA TV (1080p)",
+      "url": "https://d265y4sk8257lt.cloudfront.net/nh.m3u8",
+      "logo_url": "https://i.imgur.com/jZgcm4k.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "Overtime.us",
+      "name": "Overtime (1080p)",
+      "url": "https://d1a8aq6t30gkqj.cloudfront.net/v1/amc_overtime_1/samsungheadend_us/latest/main/hls/playlist_hd.m3u8",
+      "logo_url": "https://i.imgur.com/9S9k4IK.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "PGATour.us",
+      "name": "PGA Tour (1080p) [Geo-blocked]",
+      "url": "https://pb-783hpus5r91wv.akamaized.net/playlist.m3u8",
+      "logo_url": "https://i.imgur.com/J0TY9dG.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "RacerSelect.us",
+      "name": "RACER Select (1080p)",
+      "url": "https://d85qrcmltdfp8.cloudfront.net/MAVTV_Select.m3u8",
+      "logo_url": "https://i.imgur.com/CurtYvn.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "Stadium.us",
+      "name": "Stadium (720p)",
+      "url": "https://wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadium_gracenote/samsung_us/latest/main/hls/playlist.m3u8",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_%28sports_network%29_logo.svg/512px-Stadium_%28sports_network%29_logo.svg.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "Unbeaten.us",
+      "name": "Unbeaten Sports Channel (1080p)",
+      "url": "https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8",
+      "logo_url": "https://i.imgur.com/LmkNt3v.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "WillowSports.us",
+      "name": "Willow Sports (1080p)",
+      "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8",
+      "logo_url": "https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "WomensSportsNetwork.us",
+      "name": "Women's Sports Network (1080p)",
+      "url": "https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network.m3u8",
+      "logo_url": "https://i.imgur.com/rhIwUcQ.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "AnimationPlus.us",
+      "name": "Animation+ (1080p) [Geo-blocked]",
+      "url": "https://pb-ioe9d0fpkd6pp.akamaized.net/playlist.m3u8",
+      "logo_url": "https://i.imgur.com/OIFK6JB.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "AnimexHIDIVE.us",
+      "name": "ANIME x HIDIVE (720p)",
+      "url": "https://d3f088nnrrvkwf.cloudfront.net/v1/amc_anime_x_hidive_1/samsungheadend_us/latest/main/hls/playlist.m3u8",
+      "logo_url": "https://i.imgur.com/v0BlxCa.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "BBCKids.us",
+      "name": "BBC Kids (720p)",
+      "url": "https://dmr1h4skdal9h.cloudfront.net/playlist.m3u8",
+      "logo_url": "https://i.imgur.com/vKUD64a.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "FilmRiseAnime.us",
+      "name": "FilmRise Anime (720p)",
+      "url": "https://dvu7aia8rjlfm.cloudfront.net/master.m3u8",
+      "logo_url": "https://i.imgur.com/3wqeGXM.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "HappyKids.us",
+      "name": "HappyKids (1080p)",
+      "url": "https://dil9xdvretp0f.cloudfront.net/index.m3u8",
+      "logo_url": "https://i.imgur.com/cPrUCFw.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "KidoodleTV.ca",
+      "name": "Kidoodle.TV (1080p)",
+      "url": "https://amg07653-apmc-amg07653c9-samsung-us-8740.playouts.now.amagi.tv/playlist.m3u8",
+      "logo_url": "https://i.imgur.com/MaFtbM5.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "NinjaKidzTV.us",
+      "name": "Ninja Kidz (720p)",
+      "url": "https://d3868b4ny0rgdf.cloudfront.net/playlist.m3u8",
+      "logo_url": "https://i.imgur.com/7EngqUi.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "pocketwatch.us",
+      "name": "pocket.watch Game On (1080p)",
+      "url": "https://dl74gpgmnb7i8.cloudfront.net/pocketwatch_GameOn.m3u8",
+      "logo_url": "https://i.imgur.com/T0V90Lz.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "Teletubbies.uk",
+      "name": "Teletubbies (720p)",
+      "url": "https://dy9gbyiaxw0rb.cloudfront.net/master.m3u8",
+      "logo_url": "https://i.imgur.com/J9iWjWL.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "TGJunior.us",
+      "name": "Toon Goggles Junior (720p)",
+      "url": "https://d3i6upqaqzosi1.cloudfront.net/tg/jr_us/tg_jr_us.m3u8",
+      "logo_url": "https://i.imgur.com/aqane40.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
     }
   ]
 }
