@@ -11658,7 +11658,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_mse_v0_hevc.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_mse_v0_hevc.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -13121,6 +13121,87 @@
       "category": 0,
       "language": 0,
       "is_hd": true
+    },
+    {
+      "id": "AutoMotorogSportTV.no@SD",
+      "name": "Auto Motor Sport",
+      "url": "https://jmp2.uk/plu-5f760c3d41aa2d0007bfde19.m3u8",
+      "logo_url": "https://i.imgur.com/0YJYgR7.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "WorldPokerTour.us@Austria",
+      "name": "World Poker Tour",
+      "url": "https://jmp2.uk/plu-5ad9b7aae738977e2c312132.m3u8",
+      "logo_url": "https://i.imgur.com/98kLMjj.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "Avatar.us@SD",
+      "name": "Avatar",
+      "url": "https://jmp2.uk/plu-600adbdf8c554e00072125c9.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/656df599c0fc8800089c75ab/colorLogoPNG.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "AlanBeckerTV.us@SD",
+      "name": "Becker",
+      "url": "https://jmp2.uk/plu-630348a54c48ce00077eb6c7.m3u8",
+      "logo_url": "https://yt3.googleusercontent.com/ytc/AOPolaSk8jLwTPTZ9tnSWr0coUk1-VJLYQCi2muftdUyHw=s100-c-k-c0x00ffffff-no-rj",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "Naruto.us@Austria",
+      "name": "Naruto",
+      "url": "https://jmp2.uk/plu-65d5fc39a25d5e00082895c4.m3u8",
+      "logo_url": "https://i.imgur.com/M8X3Kvc.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "NickPlutoTV.us@Austria",
+      "name": "Nick Pluto TV",
+      "url": "https://jmp2.uk/plu-5ede448d3d50590007a4419e.m3u8",
+      "logo_url": "https://i.imgur.com/N7rQyzN.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "SpongeBobSchwammkopf.us@Austria",
+      "name": "SpongeBob Schwammkopf",
+      "url": "https://jmp2.uk/plu-5d00e8adaab96b5635b2a005.m3u8",
+      "logo_url": "https://i.imgur.com/NIsgNvI.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "TotallyTurtles.us@Austria",
+      "name": "Totally Turtles",
+      "url": "https://jmp2.uk/plu-5d6792bd6be2998ad0ccce30.m3u8",
+      "logo_url": "https://i.imgur.com/1gIpagY.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "direct:aHR0cHM6Ly9saXZlb3ZoMDExLmNkYS5wbC8yU0haaV9Ta1g0aDBNRGZsemExUFB3LzE3NTM3NDg0Nzgv",
+      "name": "nick jr",
+      "url": "https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc010/nickjrraw/nickjrraw.mpd",
+      "logo_url": "https://ui-avatars.com/api/?name=NJ&background=4ECDC4&color=fff&size=100&bold=true",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
     }
   ]
 }
