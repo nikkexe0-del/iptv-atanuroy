@@ -11658,7 +11658,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_mse_v0_hevc.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_mse_v0_hevc.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -13197,7 +13197,7 @@
     {
       "id": "direct:aHR0cHM6Ly9saXZlb3ZoMDExLmNkYS5wbC8yU0haaV9Ta1g0aDBNRGZsemExUFB3LzE3NTM3NDg0Nzgv",
       "name": "nick jr",
-      "url": "https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc010/nickelodeonraw/nickelodeonraw.mpd",
+      "url": "https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc127/porucznikkaburaraw/porucznikkaburaraw.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=NJ&background=4ECDC4&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -13589,6 +13589,60 @@
       "category": 8,
       "language": 0,
       "is_hd": false
+    },
+    {
+      "id": "GTCNews.in@SD",
+      "name": "GTC News (1080p)",
+      "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/921cca59-daee-4f89-8c38-7ffe8de44f4c/index.m3u8",
+      "logo_url": "https://www.thegtcnetwork.com/gtc-news.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "MantavyaNews.in@SD",
+      "name": "Mantavya News (576p)",
+      "url": "https://mumt02.tangotv.in/MANTAVYA24X7NEWS/index.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Mantavya_News.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "NambikkaiTV.in@SD",
+      "name": "Nambikkai TV (576p)",
+      "url": "https://mumt02.tangotv.in/NAMBIKKAITV/index.m3u8",
+      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAMBIKKAI_TV/images/LOGO_HD/image.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "MahaaBhakti.in@SD",
+      "name": "Mahaa Bhakti (1080p)",
+      "url": "https://mumbai-edge.smartplaytv.in/MahaBhakthi/index.m3u8",
+      "logo_url": "https://yt3.googleusercontent.com/OWECRvCVJh-dXU2MTRZhMRIDvFvcWan0YMoWWfXsM5_WEHobQy2QoHQbGr7AZUXzMOByTMAXbg=s900-c-k-c0x00ffffff-no-rj",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "GoodnessTV.in@SD",
+      "name": "Goodness TV (576p)",
+      "url": "https://mumt02.tangotv.in/GOODNESSTV/index.m3u8",
+      "logo_url": "https://dtil.tmsimg.com/assets/s143091_ld_h15_aa.png?lock=720x540",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "SansadTV1.in@HD",
+      "name": "Sansad TV 1 HD (1080p)",
+      "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8",
+      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SANSAD_TV_SYMHYP_1_HD/images/LOGO_HD/LOGO_HD_image.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
     }
   ]
 }
