@@ -1305,7 +1305,7 @@ https://stream.onecloudlive.in/riotv/riotvmax/index.m3u8
 rtmp://103.136.136.77:1935/muruga4k/muruga4k?psk=123456
 #EXTINF:-1 tvg-id="BoovaTV" tvg-logo="" tvg-region="Unknown" group-title="TAMIL",Boova TV [RTMP]
 rtmp://103.136.136.77:1935/boova4k/boova4k?psk=123456
-#EXTINF:-1 tvg-id="CSKTV2" tvg-logo="" tvg-region="Unknown" group-title="TAMIL",CS TV [RTMP]
+#EXTINF:-1 tvg-id="CSTV" tvg-logo="" tvg-region="Unknown" group-title="TAMIL",CS TV [RTMP]
 rtmp://103.136.136.77:1935/cs4k/cs4k?psk=123456
 #EXTINF:-1 tvg-id="KaniTV" tvg-logo="" tvg-region="Unknown" group-title="TAMIL",Kani TV [RTMP]
 rtmp://103.136.136.77:1935/kanitv/kanitv?psk=123456
@@ -1314,4 +1314,6 @@ https://view.rcserver.in/tmp_hls26/hellotamiltv/index.m3u8
 #EXTINF:-1 tvg-id="RPlusTV" tvg-logo="https://play-lh.googleusercontent.com/VuGcjfIEogf7W5cztkJKkyCINbL7gG_qRbn8Aoce5Sv15n0oCCglG4WhJtpQEeVpoG4=w512-h960-rw" tvg-region="Namakkal" group-title="TAMIL",R Plus TV
 http://rplustv.stream.onecloudlive.in:8080/rplustv/rplustvhd/index.mpd
 #EXTINF:-1 tvg-id="CityTV2" tvg-logo="" tvg-region="Unknown" group-title="TAMIL",City TV
-https://stream.onecloudlive.in/citytv/citytv/index.m3u8
+https://stream.onecloudlive.in/citytv/citytv/index.m3u8
+#EXTINF:-1 tvg-id="ShalwinTV" tvg-logo="" tvg-region="Unknown" group-title="TAMIL",Shalwin TV
+https://live3.onecloudlive.in/shalwintv/shalwintv/index.m3u8
