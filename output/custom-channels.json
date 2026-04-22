@@ -11658,7 +11658,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_mse_v0_hevc.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_mse_v0_hevc.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -15072,6 +15072,51 @@
       "url": "https://stream.onecloudlive.in/sabaritv/sabaritvhd/index.m3u8",
       "logo_url": "",
       "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "StarSports2.in@HD",
+      "name": "Star Sports 2 HD (1080p)",
+      "url": "https://mini.allinonereborn.fun/tata.php?id=11819",
+      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "AndxplorHD.in@HD",
+      "name": "&xplor HD (720p)",
+      "url": "https://mini.allinonereborn.fun/tata.php?id=11619",
+      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD/images/LOGO_HD/LOGO_HD_image.png",
+      "category": 6,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "GulliGirl.ru@SD",
+      "name": "Gulli Girl (720p)",
+      "url": "https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8",
+      "logo_url": "https://i.imgur.com/lbViDuC.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "Ryzhiy.ru@SD",
+      "name": "Ryzhiy (576i)",
+      "url": "https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8",
+      "logo_url": "https://i.imgur.com/acrU2IE.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "TiJi.ru@SD",
+      "name": "TiJi (576p)",
+      "url": "https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8",
+      "logo_url": "https://i.imgur.com/QCOUJ30.png",
+      "category": 7,
       "language": 0,
       "is_hd": false
     }
