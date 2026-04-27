@@ -11658,7 +11658,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_mse_v0_hevc.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_mse_v0_hevc.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -15295,7 +15295,7 @@
       "id": "ThamilaaramTV",
       "name": "Thamilaaram TV",
       "url": "https://thamilaaramtv24-hls.secdn.net/thamilaaramtv24-channel/play/ThamilaaramTV.smil/playlist.m3u8",
-      "logo_url": "",
+      "logo_url": "https://yt3.googleusercontent.com/xoblRD-Y1PH8KnL-8_Hjct2V91lwImL6suinvqGo9if7TxSGDfWScX0oXNRM0HTncFcVGeZEug",
       "category": 0,
       "language": 0,
       "is_hd": false
@@ -15313,7 +15313,7 @@
       "id": "UthamiyaeTV",
       "name": "Uthamiyae TV",
       "url": "https://kali.vdopanel.com:3169/stream/play.m3u8",
-      "logo_url": "",
+      "logo_url": "https://play-lh.googleusercontent.com/hxq2te7rRx53IvcJ92HIvdp5A1iwbFkeHhZxgKBIaKlXv0oq_Zfm82_7F450l6oSFQ=w512-h960-rw",
       "category": 0,
       "language": 0,
       "is_hd": false
@@ -15704,6 +15704,15 @@
       "category": 0,
       "language": 0,
       "is_hd": true
+    },
+    {
+      "id": "KathirTV",
+      "name": "Kathir TV",
+      "url": "https://stream.ashokadigital.net/kathirtv/kathirtv/index.m3u8",
+      "logo_url": "https://livetv.ashokadigital.net/upload/logo/1776329455_KATHIR%20TV.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
     }
   ]
 }
