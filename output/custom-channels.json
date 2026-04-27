@@ -8788,7 +8788,7 @@
       "id": "UdhayamTVMadurai",
       "name": "Udhayam TV Madurai",
       "url": "https://view.rcserver.in/tmp_hls8/udhayamtv/index.m3u8",
-      "logo_url": "",
+      "logo_url": "https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/UdhayamTVMadurai.png",
       "category": 0,
       "language": 0,
       "is_hd": false
@@ -9175,7 +9175,7 @@
       "id": "RCMusic",
       "name": "RC Music",
       "url": "https://view.rcserver.in/tmp_hls2/stream/index.m3u8",
-      "logo_url": "",
+      "logo_url": "https://rctv.in/logo_s.png",
       "category": 0,
       "language": 0,
       "is_hd": false
@@ -9931,7 +9931,7 @@
       "id": "NithyaVelichamTV",
       "name": "Nithya Velicham TV",
       "url": "https://play.applelive.in/nithyavelichamtv/nithyavelichamtv.m3u8",
-      "logo_url": "",
+      "logo_url": "https://yt3.googleusercontent.com/mY__3DwPX3v-jE4Bo0iTA05C7QoJm4cEw1XyrR3SYlEmaZif6r8FKYZCDNFs2v5UliBrMfrw",
       "category": 0,
       "language": 0,
       "is_hd": false
@@ -11658,7 +11658,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_mse_v0_hevc.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_mse_v0_hevc.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -14944,7 +14944,7 @@
       "id": "VisionTV",
       "name": "Vision TV",
       "url": "https://rtmp.bmlive.net/bms/visiontv/index.m3u8",
-      "logo_url": "",
+      "logo_url": "https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/VisionTV.png",
       "category": 0,
       "language": 0,
       "is_hd": false
@@ -15178,7 +15178,7 @@
       "id": "RCTelevision",
       "name": "RC Television",
       "url": "https://view.rcserver.in/tmp_hls1/stream/index.m3u8",
-      "logo_url": "",
+      "logo_url": "https://rctv.in/logo_l.png",
       "category": 0,
       "language": 0,
       "is_hd": false
@@ -15475,7 +15475,7 @@
       "id": "TamilOliTheni",
       "name": "Tamil Oli TV Theni",
       "url": "https://view.rcserver.in/tmp_hls29/tamilolilive/index.m3u8",
-      "logo_url": "",
+      "logo_url": "https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/TamilOliTheni.png",
       "category": 0,
       "language": 0,
       "is_hd": false
@@ -15646,7 +15646,7 @@
       "id": "ThangamTV",
       "name": "Thangam TV",
       "url": "https://stream.onecloudlive.in/thangamtv/thangamtvhd/index.m3u8",
-      "logo_url": "",
+      "logo_url": "https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/ThangamTV.png",
       "category": 0,
       "language": 0,
       "is_hd": false
@@ -15710,6 +15710,24 @@
       "name": "Kathir TV",
       "url": "https://stream.ashokadigital.net/kathirtv/kathirtv/index.m3u8",
       "logo_url": "https://livetv.ashokadigital.net/upload/logo/1776329455_KATHIR%20TV.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "BharathiTVMDU",
+      "name": "Bharathi TV Madurai",
+      "url": "https://stream.onecloudlive.in/karnan/bharathitv/index.m3u8",
+      "logo_url": "https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/BharathiTV.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PGTV",
+      "name": "PG TV",
+      "url": "https://app.xstream.onecloudlive.in/pgtv/pgtvhd/index.m3u8",
+      "logo_url": "",
       "category": 0,
       "language": 0,
       "is_hd": false
