@@ -11658,7 +11658,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_mse_v0_hevc.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_mse_v0_hevc.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -15791,6 +15791,33 @@
       "name": "MTV Virudhunagar",
       "url": "https://stream.ashokadigital.net/mtvlive/mtvlive/index.m3u8",
       "logo_url": "https://livetv.ashokadigital.net/upload/logo/1777425606_N%20TV%20%20VIRUTHU%20NAGAR.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "CSKTV",
+      "name": "CSK TV",
+      "url": "https://stream.ashokadigital.net/csktv/csktv/index.m3u8",
+      "logo_url": "https://livetv.ashokadigital.net/upload/logo/1733983239_csk%20tv%20png%20logo%20kanishq.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "QTV",
+      "name": "Q TV [Ashoka Digital]",
+      "url": "https://app.ashokadigital.net/app/71b64f7b/index.m3u8",
+      "logo_url": "https://livetv.ashokadigital.net/upload/logo/1736392772_IMG-20250109-WA0035.jpg",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "ShakthiChannel",
+      "name": "Shakthi Channel",
+      "url": "https://cloudstream4k.com/shakthihd/bsk/playlist.m3u8",
+      "logo_url": "",
       "category": 0,
       "language": 0,
       "is_hd": false
